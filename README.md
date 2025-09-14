@@ -1,5 +1,5 @@
 
-# UART Transmitter (TX)
+# UART communication protocol
 
 ###  Overview
 
